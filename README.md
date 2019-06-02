@@ -37,3 +37,7 @@ https://arxiv.org/abs/1803.07640
 https://arxiv.org/abs/1806.07976v1
 http://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20(preprint).pdf
 https://www.youtube.com/watch?v=ZeA95GGvh9s I have gone over all of these, so if you go over any of these we could discuss the material.
+
+## Git
+https://learngitbranching.js.org/   
+https://git-rebase.io/
