@@ -12,6 +12,9 @@
 ### Courses
 [Advanced NLP with spaCy](https://github.com/ines/spacy-course)
 
+## Apache Beam
+[Apache Beam: Headstart for a beginner](https://medium.com/analytics-vidhya/apache-beam-a-beginners-approach-4783dfc6fea)
+
 ##### Other stuff 
  
 Here's one that looks at using the mahalanobis distance as a replacement for tf-idf
