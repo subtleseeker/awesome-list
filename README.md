@@ -14,6 +14,7 @@
 
 ## Apache Beam
 [Apache Beam: Headstart for a beginner](https://medium.com/analytics-vidhya/apache-beam-a-beginners-approach-4783dfc6fea)
+[Splittable DoFn](https://docs.google.com/document/d/1AQmx-T9XjSi1PNoEp5_L-lT0j7BkgTbmQnc6uFEMI4c/edit#heading=h.dtl8cwoybr2y)
 
 ##### Other stuff 
  
