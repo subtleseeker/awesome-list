@@ -1,4 +1,7 @@
 # awesome-list
+## CNN
+1. [Intuition of conv layers](http://cs231n.github.io/convolutional-networks/): Overview and intuition without brain stuff
+
 ## Keras 
 ### LSTMs
 1. https://stackoverflow.com/a/50235563/6740589
