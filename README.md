@@ -51,3 +51,6 @@ https://www.youtube.com/watch?v=ZeA95GGvh9s I have gone over all of these, so if
 ## Git
 https://learngitbranching.js.org/   
 https://git-rebase.io/
+
+## Systems/Distributed systems
+https://medium.com/faun/understanding-nodes-pods-containers-and-clusters-778dbd56ade8
