@@ -14,6 +14,9 @@
 ### RNN & LSTM
 1. https://discussions.udacity.com/t/rnn-lstm-use-implementation/163169/4
 
+## pytorch
+1. https://github.com/dair-ai/pytorch_notebooks
+
 ## NLP 
 ### Courses
 [Advanced NLP with spaCy](https://github.com/ines/spacy-course)
