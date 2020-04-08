@@ -57,3 +57,6 @@ https://git-rebase.io/
 
 ## Systems/Distributed systems
 https://medium.com/faun/understanding-nodes-pods-containers-and-clusters-778dbd56ade8
+
+## Advanced cpp
+https://www.learncpp.com/
