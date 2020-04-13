@@ -60,3 +60,6 @@ https://medium.com/faun/understanding-nodes-pods-containers-and-clusters-778dbd5
 
 ## Advanced cpp
 https://www.learncpp.com/
+
+## CMake basics
+https://dev.to/iblancasa/learning-cmake-1-2l5a
