@@ -63,3 +63,4 @@ https://www.learncpp.com/
 
 ## CMake basics
 https://dev.to/iblancasa/learning-cmake-1-2l5a
+https://samthursfield.wordpress.com/2015/11/21/cmake-dependencies-between-targets-and-files-and-custom-commands/
