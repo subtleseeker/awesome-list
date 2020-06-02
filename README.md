@@ -1,6 +1,7 @@
 # awesome-list
 ## Intro to Deep Learning
 1. [Beginner's guide to deep learning (series)](https://towardsdatascience.com/intro-to-deep-learning-c025efd92535)
+2. [Applied Deep Learning - Part 1: Artificial Neural Networks](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
 
 ## CNN
 1. [Intuition of conv layers](http://cs231n.github.io/convolutional-networks/): Overview and intuition without brain stuff
