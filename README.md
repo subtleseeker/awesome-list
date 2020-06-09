@@ -7,6 +7,7 @@ https://git-rebase.io/
 ## Systems/Distributed systems
 ### Kubernetes
 https://www.ianlewis.org/en/what-are-kubernetes-pods-anyway   
+https://portworx.com/basic-guide-kubernetes-storage/   
 https://training.play-with-kubernetes.com/kubernetes-workshop/   
 https://medium.com/faun/understanding-nodes-pods-containers-and-clusters-778dbd56ade8   
 
