@@ -9,7 +9,8 @@ https://git-rebase.io/
 https://www.ianlewis.org/en/what-are-kubernetes-pods-anyway   
 https://portworx.com/basic-guide-kubernetes-storage/   
 https://training.play-with-kubernetes.com/kubernetes-workshop/   
-https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16   
+https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16 (pretty long and practical series)
+https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
 ## Advanced cpp
 https://www.learncpp.com/
