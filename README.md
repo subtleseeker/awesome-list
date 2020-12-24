@@ -24,6 +24,10 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
    
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
+## Networks
+[Fundamentals (Video): Hub, Bridge, Switch](https://www.youtube.com/watch?v=wjWjGnkb3Cw&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=11)
+[VLAN (Video)](https://www.youtube.com/watch?v=GrhHMai2d2Y&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=12)
+
 ## Languages
 ### Advanced cpp
 https://www.learncpp.com/
