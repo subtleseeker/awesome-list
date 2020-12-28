@@ -29,6 +29,9 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 [VLAN (Video)](https://www.youtube.com/watch?v=GrhHMai2d2Y&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=12)
 
 ## Languages
+### Go
+[Reverse Proxy](https://blog.charmes.net/post/reverse-proxy-go/)
+
 ### Advanced cpp
 https://www.learncpp.com/
 
