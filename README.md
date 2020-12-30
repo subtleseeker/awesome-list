@@ -9,6 +9,9 @@ https://git-rebase.io/
 https://dev.to/iblancasa/learning-cmake-1-2l5a
 https://samthursfield.wordpress.com/2015/11/21/cmake-dependencies-between-targets-and-files-and-custom-commands/
 
+## Openssl
+https://medium.com/@superseb/get-your-certificate-chain-right-4b117a9c0fce
+
 ### Apache Beam
 [Apache Beam: Headstart for a beginner](https://medium.com/analytics-vidhya/apache-beam-a-beginners-approach-4783dfc6fea)
 [Splittable DoFn](https://docs.google.com/document/d/1AQmx-T9XjSi1PNoEp5_L-lT0j7BkgTbmQnc6uFEMI4c/edit#heading=h.dtl8cwoybr2y)
@@ -25,8 +28,7 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
 ## Networks
-[Fundamentals (Video): Hub, Bridge, Switch](https://www.youtube.com/watch?v=wjWjGnkb3Cw&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=11)
-[VLAN (Video)](https://www.youtube.com/watch?v=GrhHMai2d2Y&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=12)
+[Network Fundamentals by Network Direction Playlist](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)   
 
 ## Languages
 ### Go
