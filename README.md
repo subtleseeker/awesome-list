@@ -9,7 +9,7 @@ https://git-rebase.io/
 https://dev.to/iblancasa/learning-cmake-1-2l5a
 https://samthursfield.wordpress.com/2015/11/21/cmake-dependencies-between-targets-and-files-and-custom-commands/
 
-## Openssl
+### Openssl
 https://codeburst.io/mutual-tls-authentication-mtls-de-mystified-11fa2a52e9cf   
 https://medium.com/@superseb/get-your-certificate-chain-right-4b117a9c0fce   
 Exercise: Try out decrypting https   
@@ -31,6 +31,9 @@ https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-cluster
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
    
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
+### Zookeeper
+https://bikas-katwal.medium.com/zookeeper-introduction-designing-a-distributed-system-using-zookeeper-and-java-7f1b108e236e   
 
 ## Networks
 [Network Fundamentals by Network Direction Playlist](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)   
