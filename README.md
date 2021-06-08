@@ -16,7 +16,9 @@ Exercise: Try out decrypting https
 https://stackoverflow.com/questions/20065304/differences-between-begin-rsa-private-key-and-begin-private-key   
 https://stackoverflow.com/questions/48958304/pkcs1-and-pkcs8-format-for-rsa-private-key   
 https://superuser.com/questions/606215/openssl-pkcs8-default-format-gives-rsa-private-key   
-https://blog.catchpoint.com/2017/05/12/dissecting-tls-using-wireshark/   
+https://blog.catchpoint.com/2017/05/12/dissecting-tls-using-wireshark/ or http://www.moserware.com/2009/06/first-few-milliseconds-of-https.htmlhttp://www.moserware.com/2009/06/first-few-milliseconds-of-https.html   
+[Certificates demystified](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art012)   
+[openssl v3_ca](https://www.openssl.org/docs/man1.0.2/man5/x509v3_config.html)   
 
 ### Apache Beam
 [Apache Beam: Headstart for a beginner](https://medium.com/analytics-vidhya/apache-beam-a-beginners-approach-4783dfc6fea)
