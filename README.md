@@ -33,7 +33,10 @@ https://training.play-with-kubernetes.com/kubernetes-workshop/
 https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16 (pretty long and practical series)   
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
    
-https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236   
+
+**Storage**  
+https://www.digihunch.com/2021/06/kubernetes-storage-explained/
 
 ### Zookeeper
 https://bikas-katwal.medium.com/zookeeper-introduction-designing-a-distributed-system-using-zookeeper-and-java-7f1b108e236e   
